@@ -9,7 +9,7 @@
 # /usr/local/bin or ~/.local/bin. POSIX sh, no dependencies beyond curl.
 set -eu
 
-REPO="asymptote-app/installer"
+REPO="asymptote-app/asymptote-app"
 BASE="https://github.com/$REPO/releases/latest/download"
 
 # --- detect platform ---------------------------------------------------------
